@@ -1,5 +1,4 @@
 # Dense Adversarial Generation Pytorch
-================
 
 Main contributors: 
 
